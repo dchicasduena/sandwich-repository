@@ -5,8 +5,6 @@ date:   2023-07-18 12:39:03 -0230
 categories: sandwiches
 ---
 
-# **hot italian beef sandwich**
-
 I have been watching The Bear (2022) lately and want to try the sandwich so bad
 
 ## ingredients
