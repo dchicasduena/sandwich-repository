@@ -1,18 +1,17 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+this is a place where I store recipes for food I like/want to make
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
+this site was made with github pages and jekyll
 [jekyll][jekyll-organization] /
 [jekyll](https://github.com/jekyll/jekyll)
 
+you can find the source code for the site here
+[dchicasduena][dchicasduena-user] /
+[sandwich-repository](https://github.com/dchicasduena/sandwich-repository)
 
-[jekyll-organization]: https://github.com/jekyll
+
