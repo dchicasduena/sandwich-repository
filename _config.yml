@@ -27,7 +27,7 @@ url: "https://dchicasduena.github.io" # the base hostname & protocol for your si
 github_username:  dchicasduena
 
 # Build settings
-theme: minimal
+theme: minima
 plugins:
   - jekyll-feed
 
