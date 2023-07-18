@@ -22,8 +22,8 @@ title: sandwich repository
 email: davidchicas614@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   place to store recipes for some sandwiches so want to make/made
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://dchicasduena.github.io/sandwich-repository" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/sandwich-repository" # the subpath of your site, e.g. /blog
+url: "https://dchicasduena.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dchicasduena
 
 # Build settings
