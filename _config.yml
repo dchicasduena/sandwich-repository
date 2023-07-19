@@ -20,7 +20,6 @@
 
 title: sandwich repository
 description: >- # this means to ignore newlines until "baseurl:"
-  place to store recipes for some sandwiches so want to make/made
 domain: "dchicasduena.github.io"
 baseurl: "/sandwich-repository/" # the subpath of your site, e.g. /blog
 url: "https://dchicasduena.github.io" # the base hostname & protocol for your site, e.g. http://example.com
