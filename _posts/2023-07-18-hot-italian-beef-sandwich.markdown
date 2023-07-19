@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "hot italian beef sandwich"
-date:   2023-07-18T12:39:03.0230
+date:   2023-07-18
 categories: sandwiches
 ---
 
@@ -11,7 +11,7 @@ I have been watching The Bear (2022) lately and want to try the sandwich so bad
 
 - 1 (2-pound) roast of top sirloin or top round, trimmed of fat
 - kosher salt
--freshly ground black pepper
+- freshly ground black pepper
 - oil
 - 2 garlic cloves
 - 1 onion, quartered
