@@ -61,10 +61,4 @@ In a large, heavy-bottom, oven-proof pan, heat the oil over medium-high heat. Ad
 2. Put all your vegetables in a bowl and stir in the salt and fill with enough water to cover.
 3. Cover with plastic wrap and chill in fridge overnight
 4. Drain water and rinse vegetables
-5. Mix the rest of ingriedients with your vegetables in a bowl, pour vinegar and oil then mix well. Put in a jar and refrigerate for two days before using. 
-
-
-
-
-
-
+5. Mix the rest of ingriedients with your vegetables in a bowl, pour vinegar and oil then mix well. Put in a jar and refrigerate for two days before using.
