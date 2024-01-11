@@ -2,7 +2,7 @@
 layout: post
 title:  "caesar salad wrap"
 date:   2023-08-08
-categories: others
+categories: wraps
 ---
 
 i love caesar salad with chicken
